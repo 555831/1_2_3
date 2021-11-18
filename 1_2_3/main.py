@@ -30,7 +30,7 @@ def draw_A():
   a.write("A", font=("Arial", 30, "bold")) 
 
 #-----function calls-----
-
+#urmom
 draw_apple(apple)
 draw_A()
 
